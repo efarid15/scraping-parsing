@@ -1,0 +1,2991 @@
+{
+    "Travel": [
+        {
+            "title": "Crown Hotel Victoria Diskon 30%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1675",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20190902163923.jpg",
+            "area_promo": "Tulungagung",
+            "start_promo": {
+                "date": "30 Agustus 2019"
+            },
+            "end_promo": {
+                "date": "24 Juli 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/00-landing-page-VICTORIA(1).jpg"
+        },
+        {
+            "title": "Kayu Arum Resort - Diskon hingga 35%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1718",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20190919163510.jpg",
+            "area_promo": "Salatiga",
+            "start_promo": {
+                "date": "01 September 2019"
+            },
+            "end_promo": {
+                "date": "31 Agustus 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/0-landing-page-KAYU-ARUM.jpg"
+        },
+        {
+            "title": "The Alana Hotel - Promo Spesial",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1764",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20191007154855.jpg",
+            "area_promo": "Solo",
+            "start_promo": {
+                "date": "01 September 2019"
+            },
+            "end_promo": {
+                "date": "31 Agustus 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/1-landing-page-ALANA.jpg"
+        },
+        {
+            "title": "Grand Karlita Harga Spesial",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1781",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20191014155645.jpg",
+            "area_promo": "Purwokerto",
+            "start_promo": {
+                "date": "10 Oktober 2019"
+            },
+            "end_promo": {
+                "date": "10 Oktober 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/1-landing-page-KARLITA.jpg"
+        },
+        {
+            "title": "Visa Contactless MRT",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1789",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20191016103751.jpg",
+            "area_promo": "Singapore",
+            "start_promo": {
+                "date": "06 Juni 2019"
+            },
+            "end_promo": {
+                "date": "31 Desember 2023"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/1-landing-page-MRT.jpg"
+        },
+        {
+            "title": "Grand Aston Yogyakarta Diskon 15%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1790",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20191016104756.jpg",
+            "area_promo": "Yogyakarta",
+            "start_promo": {
+                "date": "10 Oktober 2019"
+            },
+            "end_promo": {
+                "date": "30 September 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/0-landing-page-GRAND-ASTON_kn.jpg"
+        },
+        {
+            "title": "Grand Tjokro - Diskon hingga 50%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1797",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20191018111938.jpg",
+            "area_promo": "Balikpapan",
+            "start_promo": {
+                "date": "03 September 2019"
+            },
+            "end_promo": {
+                "date": "02 September 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/3-landing-page-GRAND-TJOKRO.jpg"
+        },
+        {
+            "title": "The Rich Jogja Hotel - Diskon hingga 25%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1801",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20191021142005.jpg",
+            "area_promo": "Yogyakarta",
+            "start_promo": {
+                "date": "01 September 2019"
+            },
+            "end_promo": {
+                "date": "31 Agustus 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/1-landing-page-RICH-JOGJA.jpg"
+        },
+        {
+            "title": "Putri Kedhaton Spa at The Rich Jogja Hotel - Diskon 20%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1803",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20191021142336.jpg",
+            "area_promo": "Yogyakarta",
+            "start_promo": {
+                "date": "01 September 2019"
+            },
+            "end_promo": {
+                "date": "31 Agustus 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/1-landing-page-RICH-JOGJA(2).jpg"
+        },
+        {
+            "title": "Klook - Diskon hingga 100 ribu",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1812",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20191023142141.jpg",
+            "area_promo": "Nasional",
+            "start_promo": {
+                "date": "02 September 2019"
+            },
+            "end_promo": {
+                "date": "02 September 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/3-landing-page-KLOOK.jpg"
+        },
+        {
+            "title": "Holiday Inn Express Wahid Hasyim - Diskon hingga 20%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1828",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20191031173535.jpg",
+            "area_promo": "Jakarta",
+            "start_promo": {
+                "date": "14 Oktober 2019"
+            },
+            "end_promo": {
+                "date": "30 September 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/0-landing-page-HOLIDAY-INN.jpg"
+        },
+        {
+            "title": "Hotel Neo - Diskon hingga 60%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1840",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20191104184413.jpg",
+            "area_promo": "Cirebon",
+            "start_promo": {
+                "date": "19 Oktober 2019"
+            },
+            "end_promo": {
+                "date": "30 September 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/1-landing-page-NEO-SAMADIKUN-HOTEL.jpg"
+        },
+        {
+            "title": "Metland Hotel - Diskon hingga 55%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1841",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20191105100017.jpg",
+            "area_promo": "Cirebon",
+            "start_promo": {
+                "date": "19 Oktober 2019"
+            },
+            "end_promo": {
+                "date": "30 September 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/2-landing-page-METLAND-HOTEL.jpg"
+        },
+        {
+            "title": "Hotel Holiday Inn Express Kemayoran - Diskon Hingga 20%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1875",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20191121133712.jpg",
+            "area_promo": "Jakarta",
+            "start_promo": {
+                "date": "01 November 2019"
+            },
+            "end_promo": {
+                "date": "31 Oktober 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/Hotel-holiday-inn-lp.jpg"
+        },
+        {
+            "title": "Hotel Traveller Phinisi - Special Price All Type Room",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1886",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20191127170203.jpg",
+            "area_promo": "Makassar",
+            "start_promo": {
+                "date": "21 November 2019"
+            },
+            "end_promo": {
+                "date": "20 November 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/BM%20asset%20Travellers_lp.jpg"
+        },
+        {
+            "title": "LAUNCH TRANS STUDIO BALI - OPENING",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1923",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20191211190329.jpg",
+            "area_promo": "Bali",
+            "start_promo": {
+                "date": "12 Desember 2019"
+            },
+            "end_promo": {
+                "date": "12 Desember 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/0A-landing-page-TSBali-1.jpg"
+        },
+        {
+            "title": "Hotel Banjarmasin Internasional - Diskon hingga 50%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1937",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20191216112940.jpg",
+            "area_promo": "Banjarmasin",
+            "start_promo": {
+                "date": "21 November 2019"
+            },
+            "end_promo": {
+                "date": "20 November 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/0-landing-page-BANJARMASIN-INTERNATIONAL.jpg"
+        },
+        {
+            "title": "Hotel Azana - Diskon Hingga 45%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1975",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200102100535.jpg",
+            "area_promo": "Semarang",
+            "start_promo": {
+                "date": "15 November 2019"
+            },
+            "end_promo": {
+                "date": "30 November 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/BM%20asset%20azana_lp.jpg"
+        },
+        {
+            "title": "Hotel Grand Candi - Special Price For Room",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1979",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200103150507.jpg",
+            "area_promo": "Semarang",
+            "start_promo": {
+                "date": "25 November 2020"
+            },
+            "end_promo": {
+                "date": "25 November 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/BM%20asset_lp(17).jpg"
+        },
+        {
+            "title": "Hotel Aston - Diskon 45%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1994",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200110155929.jpg",
+            "area_promo": "Jambi",
+            "start_promo": {
+                "date": "01 Agustus 2019"
+            },
+            "end_promo": {
+                "date": "31 Juli 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/BM%20asset_lp(20).jpg"
+        },
+        {
+            "title": "RedDoorz Diskon 25%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1998",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200114085410.jpg",
+            "area_promo": "Nasional",
+            "start_promo": {
+                "date": "01 Januari 2020"
+            },
+            "end_promo": {
+                "date": "31 Desember 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/0-landing-page-REDDOORZ(3).jpg"
+        },
+        {
+            "title": "Hotel Orchadz - Diskon Hingga 45%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2001",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200115093148.jpg",
+            "area_promo": "Pontianak",
+            "start_promo": {
+                "date": "30 Desember 2019"
+            },
+            "end_promo": {
+                "date": "29 Desember 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/BM%20asset%20orchardz_lp.jpg"
+        },
+        {
+            "title": "Hotel Jambuluwuk Malioboro",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2010",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200120083654.jpg",
+            "area_promo": "Yogyakarta",
+            "start_promo": {
+                "date": "01 Desember 2019"
+            },
+            "end_promo": {
+                "date": "30 November 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/BM%20asset%20hotel%20jambuluwuk_lp.jpg"
+        },
+        {
+            "title": "Hotel Garden Palace - Diskon 63%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2028",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200128084905.jpg",
+            "area_promo": "Surabaya",
+            "start_promo": {
+                "date": "01 Januari 2020"
+            },
+            "end_promo": {
+                "date": "31 Desember 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/BM%20asset%20grand%20palace_lp.jpg"
+        },
+        {
+            "title": "Hotel Aston - Diskon Hingga 40%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2030",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200129171419.jpg",
+            "area_promo": "Pontianak",
+            "start_promo": {
+                "date": "01 Februari 2020"
+            },
+            "end_promo": {
+                "date": "31 Januari 2021"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/BM%20asset%20HOTEL%20ASTON%20PONTIANAK_lp.jpg"
+        },
+        {
+            "title": "Hotel Maxxone - Diskon Hingga 48%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2032",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200131104602.jpg",
+            "area_promo": "Balikpapan",
+            "start_promo": {
+                "date": "10 Januari 2020"
+            },
+            "end_promo": {
+                "date": "09 Januari 2021"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/BM%20asset%20Maxxone_lp.jpg"
+        },
+        {
+            "title": "Hotel Golden Tulip - Diskon Hingga 40%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2035",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200203172141.ai%20golden%20tulip_insidepromo",
+            "area_promo": "Pontianak",
+            "start_promo": {
+                "date": "01 Februari 2020"
+            },
+            "end_promo": {
+                "date": "31 Januari 2021"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/BM%20asset_ai%20golden%20tulip_lp.jpg"
+        },
+        {
+            "title": "Hotel Forriz - Diskon Hingga 50%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2040",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200205162551.jpg",
+            "area_promo": "Yogyakarta",
+            "start_promo": {
+                "date": "01 Desember 2019"
+            },
+            "end_promo": {
+                "date": "15 Desember 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/BM%20asset%20hotel%20forriz_lp(1).jpg"
+        },
+        {
+            "title": "Hotel Patra - Diskon 40%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2050",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200214093106.jpg",
+            "area_promo": "Cirebon",
+            "start_promo": {
+                "date": "01 Februari 2020"
+            },
+            "end_promo": {
+                "date": "31 Januari 2021"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/HotelPatra_lp.jpg"
+        },
+        {
+            "title": "Hotel Kini - Diskon 45%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2054",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200217091422.jpg",
+            "area_promo": "Pontianak",
+            "start_promo": {
+                "date": "15 Februari 2020"
+            },
+            "end_promo": {
+                "date": "14 Februari 2021"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/HotelKini_lp.jpg"
+        },
+        {
+            "title": "Hotel Best Western Kindai - Diskon Hingga 20%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2055",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200217092409.jpg",
+            "area_promo": "Banjarmasin",
+            "start_promo": {
+                "date": "07 Februari 2020"
+            },
+            "end_promo": {
+                "date": "06 Februari 2021"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/HotelBestWestern_lp.jpg"
+        },
+        {
+            "title": "Hotel Star - Diskon Hingga 60%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2058",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200218092217.jpg",
+            "area_promo": "Semarang",
+            "start_promo": {
+                "date": "10 Februari 2020"
+            },
+            "end_promo": {
+                "date": "29 Januari 2021"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/BM%20asset%20hotel%20prima_lp.jpg"
+        },
+        {
+            "title": "Hotel Nasa - Diskon Hingga 50%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2060",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200220110331.jpg",
+            "area_promo": "Banjarmasin",
+            "start_promo": {
+                "date": "22 Januari 2020"
+            },
+            "end_promo": {
+                "date": "21 Januari 2021"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/BM%20asset%20nasa%20banjarmasin_lp.jpg"
+        },
+        {
+            "title": "Hotel & Cottages Surya - Diskon Hingga 30%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2061",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200225150146.jpg",
+            "area_promo": "Pasuruan",
+            "start_promo": {
+                "date": "20 Januari 2020"
+            },
+            "end_promo": {
+                "date": "19 Februari 2021"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/HotelSurya_lp.jpg"
+        },
+        {
+            "title": "Hotel Grage - Diskon 40%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2063",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200226124613.jpg",
+            "area_promo": "Cirebon",
+            "start_promo": {
+                "date": "01 Februari 2020"
+            },
+            "end_promo": {
+                "date": "31 Januari 2021"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/HotelGrage_lp.jpg"
+        },
+        {
+            "title": "Hotel Patra - Diskon 40%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2064",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200226125111.jpg",
+            "area_promo": "Cirebon",
+            "start_promo": {
+                "date": "01 Februari 2020"
+            },
+            "end_promo": {
+                "date": "31 Januari 2021"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/HotelPatra_lp(1).jpg"
+        },
+        {
+            "title": "Aria Hotel - Diskon Hingga 50%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2066",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200228123206.jpg",
+            "area_promo": "Banjarmasin",
+            "start_promo": {
+                "date": "01 Maret 2020"
+            },
+            "end_promo": {
+                "date": "28 Februari 2021"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/0-landing-page-ARIA-BARITO.jpg"
+        },
+        {
+            "title": "Hotel Kapuas - Diskon Hingga 50%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2077",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200309081110.jpg",
+            "area_promo": "Pontianak",
+            "start_promo": {
+                "date": "15 Februari 2020"
+            },
+            "end_promo": {
+                "date": "14 Februari 2021"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/HotelKapuas_lp.jpg"
+        },
+        {
+            "title": "Hotel Amaris - Special Price",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2078",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200309081747.jpg",
+            "area_promo": "Samarinda",
+            "start_promo": {
+                "date": "20 Februari 2020"
+            },
+            "end_promo": {
+                "date": "19 Februari 2021"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/BM%20asset%20hotel%20amaris_lp.jpg"
+        },
+        {
+            "title": "Hotel Crystal Lotus - Diskon Hingga 60%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2079",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200309082242.jpg",
+            "area_promo": "Yogyakarta",
+            "start_promo": {
+                "date": "01 Februari 2020"
+            },
+            "end_promo": {
+                "date": "31 Januari 2021"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/0-landing-page-CRYSTAL-LOTUS.jpg"
+        },
+        {
+            "title": "Tiket.com Potongan Hingga Rp400ribu",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2082",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200309112738.jpg",
+            "area_promo": "Nasional",
+            "start_promo": {
+                "date": "14 Februari 2020"
+            },
+            "end_promo": {
+                "date": "31 Agustus 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/1-landing-page-TIKET(1).jpg"
+        },
+        {
+            "title": "Bounce Street - Special Price",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2083",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200312171631.jpg",
+            "area_promo": "Jakarta",
+            "start_promo": {
+                "date": "28 Februari 2020"
+            },
+            "end_promo": {
+                "date": "28 Februari 2021"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/Bounce%20Street_lp(1).jpg"
+        },
+        {
+            "title": "Waterbom PIK - Buy 1 Get 1 Free",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2084",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200312173331.jpg",
+            "area_promo": "Jakarta",
+            "start_promo": {
+                "date": "26 Februari 2019"
+            },
+            "end_promo": {
+                "date": "28 Februari 2021"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/WaterboomPIK_lp(2).jpg"
+        },
+        {
+            "title": "Hotel Gran Senyiur - Diskon Hingga 35%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2085",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200310162233.jpg",
+            "area_promo": "Balikpapan",
+            "start_promo": {
+                "date": "01 Maret 2020"
+            },
+            "end_promo": {
+                "date": "28 April 2021"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/0-landing-page-SENYIUR.jpg"
+        },
+        {
+            "title": "Hotel Grand Surya - Diskon Hingga 20%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2086",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200311083734.jpg",
+            "area_promo": "Kediri",
+            "start_promo": {
+                "date": "20 Maret 2019"
+            },
+            "end_promo": {
+                "date": "30 Desember 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/0-landing-page-GRAND-SURYA.jpg"
+        },
+        {
+            "title": "Treepark Hotel - Diskon Hingga 40%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2089",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200312090934.jpg",
+            "area_promo": "Banjarmasin",
+            "start_promo": {
+                "date": "13 Februari 2020"
+            },
+            "end_promo": {
+                "date": "12 Februari 2021"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/BM%20asset%20treepark_lp.jpg"
+        },
+        {
+            "title": "Hotel Grand Kartika - Diskon 20%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2099",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200320114913.jpg",
+            "area_promo": "Samarinda",
+            "start_promo": {
+                "date": "10 Januari 2019"
+            },
+            "end_promo": {
+                "date": "31 Desember 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/BM%20asset%20grand%20kartika_lp.jpg"
+        },
+        {
+            "title": "Hotel Santika - Diskon Hingga 59%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2103",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200323192611.jpg",
+            "area_promo": "Pontianak",
+            "start_promo": {
+                "date": "15 Maret 2020"
+            },
+            "end_promo": {
+                "date": "14 Maret 2021"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/BM%20asset%20hotel%20santika_lp.jpg"
+        },
+        {
+            "title": "Hotel Melia - Diskon 40%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2106",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200326135802.jpg",
+            "area_promo": "Makassar",
+            "start_promo": {
+                "date": "16 Maret 2020"
+            },
+            "end_promo": {
+                "date": "17 Maret 2021"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/BM%20asset%20hotel%20melia%20makassar_lp.jpg"
+        },
+        {
+            "title": "Hotel Java Heritage - Diskon Hingga 50%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2107",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200326142738.jpg",
+            "area_promo": "Purwokerto",
+            "start_promo": {
+                "date": "01 Februari 2020"
+            },
+            "end_promo": {
+                "date": "28 Februari 2021"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/BM%20asset%20heritage_lp.jpg"
+        },
+        {
+            "title": "Hotel Wimarion - Diskon 55%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2114",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200330113756.jpg",
+            "area_promo": "Semarang",
+            "start_promo": {
+                "date": "20 Maret 2020"
+            },
+            "end_promo": {
+                "date": "31 Maret 2021"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/BM%20asset%20wimarion_lp.jpg"
+        },
+        {
+            "title": "Hotel Best Western - Diskon 20% untuk Kamar dan Makanan",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2121",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200402130521.jpg",
+            "area_promo": "Nasional",
+            "start_promo": {
+                "date": "17 Maret 2020"
+            },
+            "end_promo": {
+                "date": "28 Februari 2021"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/BM%20asset%20best%20western_lp.jpg"
+        },
+        {
+            "title": "Hotel Merdeka Diskon 10%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2145",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200420095523.jpg",
+            "area_promo": "Kediri",
+            "start_promo": {
+                "date": "30 Maret 2020"
+            },
+            "end_promo": {
+                "date": "30 Desember 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/BM%20asset%20hotel%20merdeka%20kediri_lp.jpg"
+        },
+        {
+            "title": "Hotel Bumi Senyiur - Diskon Hingga 50%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2155",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200427091956.jpg",
+            "area_promo": "Samarinda",
+            "start_promo": {
+                "date": "14 April 2020"
+            },
+            "end_promo": {
+                "date": "13 April 2021"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/0-landing-page-SENYIUR(1).jpg"
+        },
+        {
+            "title": "Hotel Golden Tulip Galaxy - Diskon Hingga 50%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2186",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200612131334.jpg",
+            "area_promo": "Banjarmasin",
+            "start_promo": {
+                "date": "01 Mei 2020"
+            },
+            "end_promo": {
+                "date": "30 April 2021"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/0-landing-page-GOLDEN-TULIP.jpg"
+        }
+    ],
+    "Daily Needs": [
+        {
+            "title": "The Clinic Beautylosophy - Diskon 15%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1992",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200109192507.jpg",
+            "area_promo": "Nasional",
+            "start_promo": {
+                "date": "01 Januari 2020"
+            },
+            "end_promo": {
+                "date": "31 Desember 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/Beautylosophy-lp.jpg"
+        },
+        {
+            "title": "Beautylogica - Diskon 15%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1993",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200109200342.jpg",
+            "area_promo": "Jakarta",
+            "start_promo": {
+                "date": "01 Januari 2020"
+            },
+            "end_promo": {
+                "date": "31 Desember 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/BEAUTYLOGICA-lp.jpg"
+        },
+        {
+            "title": "Gorjes - Diskon 15%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2015",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200120173001.jpg",
+            "area_promo": "Nasional",
+            "start_promo": {
+                "date": "15 Januari 2020"
+            },
+            "end_promo": {
+                "date": "31 Desember 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/GORJES-lp.jpg"
+        },
+        {
+            "title": "Naavagreen - Diskon 50%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2016",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200120191734.jpg",
+            "area_promo": "Makassar",
+            "start_promo": {
+                "date": "24 Desember 2019"
+            },
+            "end_promo": {
+                "date": "24 Desember 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/0-landing-page-NAAVAGREEN.jpg"
+        },
+        {
+            "title": "Lashtique - Diskon 15%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2018",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200122191426.jpg",
+            "area_promo": "Jakarta, Tangerang, Bekasi, Bandung",
+            "start_promo": {
+                "date": "23 Januari 2020"
+            },
+            "end_promo": {
+                "date": "31 Desember 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/LASHTIQUE-lp.jpg"
+        },
+        {
+            "title": "House of Dura - Diskon hingga 20%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2041",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200205164459.jpg",
+            "area_promo": "Makassar",
+            "start_promo": {
+                "date": "01 Januari 2020"
+            },
+            "end_promo": {
+                "date": "31 Desember 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/HOD-lp(1).jpg"
+        },
+        {
+            "title": "Salon M.Jane Signature Beauty  - Diskon Hingga 25%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2059",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200218092753.jpg",
+            "area_promo": "Samarinda",
+            "start_promo": {
+                "date": "01 Januari 2020"
+            },
+            "end_promo": {
+                "date": "31 Desember 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/MJaneSalon_lp.jpg"
+        },
+        {
+            "title": "Profira Aesthetic & Anti aging Clinic - Diskon Hingga 20%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2072",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200305110039.jpg",
+            "area_promo": "Makassar",
+            "start_promo": {
+                "date": "01 Februari 2020"
+            },
+            "end_promo": {
+                "date": "31 Juli 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/BM%20asset%20profira_lp(7).jpg"
+        },
+        {
+            "title": "Waxhaus - Diskon 15%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2080",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200309084643.jpg",
+            "area_promo": "Jakarta, Bandung, Surabaya, Bali",
+            "start_promo": {
+                "date": "16 Maret 2020"
+            },
+            "end_promo": {
+                "date": "16 Maret 2021"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/WAXHOUSE-lp.jpg"
+        },
+        {
+            "title": "Santa Maria Novella - Diskon 15%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2090",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200312091552.jpg",
+            "area_promo": "Jakarta",
+            "start_promo": {
+                "date": "01 Maret 2020"
+            },
+            "end_promo": {
+                "date": "28 Februari 2021"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/BM%20asset%20santa%20maria_lp.jpg"
+        },
+        {
+            "title": "Elia Skin Care - Diskon 20%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2120",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200402125731.jpg",
+            "area_promo": "Semarang",
+            "start_promo": {
+                "date": "17 Maret 2020"
+            },
+            "end_promo": {
+                "date": "30 September 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/0-landing-page-ELIA.jpg"
+        },
+        {
+            "title": "Charisma Aesthetic Skin Care Diskon 20%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2149",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200508092339.jpg",
+            "area_promo": "Semarang",
+            "start_promo": {
+                "date": "20 April 2020"
+            },
+            "end_promo": {
+                "date": "20 April 2021"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/0-landing-page-CHARISMA(1).jpg"
+        },
+        {
+            "title": "CEC Skin Care Clinic - Diskon 20%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2159",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200429095613.jpg",
+            "area_promo": "Semarang",
+            "start_promo": {
+                "date": "01 April 2020"
+            },
+            "end_promo": {
+                "date": "20 April 2021"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/0-landing-page-CEC.jpg"
+        },
+        {
+            "title": "Profira Aesthetic & Anti-Aging Clinic - Diskon hingga 20%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2167",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200430171549.png",
+            "area_promo": "Malang, Surabaya",
+            "start_promo": {
+                "date": "01 Mei 2020"
+            },
+            "end_promo": {
+                "date": "31 Oktober 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/0-landing-page-PROFIRA(1).jpg"
+        },
+        {
+            "title": "Everglow Aesthetic Clinic - Diskon 20%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2193",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200618151702.jpg",
+            "area_promo": "Makassar",
+            "start_promo": {
+                "date": "01 Mei 2020"
+            },
+            "end_promo": {
+                "date": "31 Desember 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/0-landing-page-EVERGLOW.jpg"
+        },
+        {
+            "title": "The Clinic Beautylosophy - Diskon 15%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2203",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200701133013.jpg",
+            "area_promo": "Jabodetabek, Bandung, Medan, Lombok",
+            "start_promo": {
+                "date": "01 Juli 2020"
+            },
+            "end_promo": {
+                "date": "30 September 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/BM%20asset%20the%20clinic_lp.jpg"
+        }
+    ],
+    "Food & Beverages": [
+        {
+            "title": "Food Visa Promo Spesial",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2174",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200618095719.jpg",
+            "area_promo": "Nasional",
+            "start_promo": {
+                "date": "01 Mei 2020"
+            },
+            "end_promo": {
+                "date": "30 November 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/0-landing-page-FOOD-VISA.jpg"
+        },
+        {
+            "title": "Tasty Kitchen disc. up to 20%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1252",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20181203103812.jpg",
+            "area_promo": "Jakarta",
+            "start_promo": {
+                "date": "01 November 2018"
+            },
+            "end_promo": {
+                "date": "31 Desember 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/02-landing-page-TASTY-revkn(1).jpg"
+        },
+        {
+            "title": "Warung Wardhani diskon hingga 20%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1340",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20190215092639.jpg",
+            "area_promo": "Jakarta",
+            "start_promo": {
+                "date": "15 Februari 2019"
+            },
+            "end_promo": {
+                "date": "31 Desember 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/00-landing-page-WARDHANI.jpg"
+        },
+        {
+            "title": "Gyu Katsu diskon hingga 20%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1354",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20190228180745.jpg",
+            "area_promo": "Jakarta",
+            "start_promo": {
+                "date": "01 Januari 2019"
+            },
+            "end_promo": {
+                "date": "31 Desember 2024"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/00-landing-page-GYU.jpg"
+        },
+        {
+            "title": "Angke Restaurant Diskon 20%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1579",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200415104943.jpg",
+            "area_promo": "Jakarta",
+            "start_promo": {
+                "date": "01 Januari 2020"
+            },
+            "end_promo": {
+                "date": "31 Desember 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/Angke_lp.jpg"
+        },
+        {
+            "title": "Meat Me Diskon 15%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1609",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200313103425.jpg",
+            "area_promo": "Jakarta, Tangerang",
+            "start_promo": {
+                "date": "01 Maret 2020"
+            },
+            "end_promo": {
+                "date": "31 Agustus 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/1-landing-page-MEAT-ME.jpg"
+        },
+        {
+            "title": "Mie Greenmore Diskon 15%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1646",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20190820143019.jpg",
+            "area_promo": "Malang",
+            "start_promo": {
+                "date": "08 Agustus 2019"
+            },
+            "end_promo": {
+                "date": "24 Juli 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/00-landing-page-GREENMORE.jpg"
+        },
+        {
+            "title": "X.O Suki Diskon 30%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1648",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20190820152837.jpg",
+            "area_promo": "Bandung",
+            "start_promo": {
+                "date": "20 Agustus 2019"
+            },
+            "end_promo": {
+                "date": "31 Agustus 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/XObdg-lp.jpg"
+        },
+        {
+            "title": "Public Social Drinkery 15% Off",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1660",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20190826142649.jpg",
+            "area_promo": "Malang",
+            "start_promo": {
+                "date": "26 Agustus 2019"
+            },
+            "end_promo": {
+                "date": "30 Juli 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/00-landing-page-PUBLIC.jpg"
+        },
+        {
+            "title": "Societe Cafe Diskon 15%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1662",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20190826145206.jpg",
+            "area_promo": "Kediri",
+            "start_promo": {
+                "date": "26 Agustus 2019"
+            },
+            "end_promo": {
+                "date": "06 Agustus 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/00-landing-page-SOCIETE.jpg"
+        },
+        {
+            "title": "Rumah Makan Torani Diskon 15%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1667",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20190828154013.jpg",
+            "area_promo": "Samarinda",
+            "start_promo": {
+                "date": "28 Agustus 2019"
+            },
+            "end_promo": {
+                "date": "31 Juli 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/2-landing-page-TORANI.jpg"
+        },
+        {
+            "title": "Mozaik & Co - Up to 30% off",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1676",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20190903102133.jpg",
+            "area_promo": "Bandung",
+            "start_promo": {
+                "date": "03 September 2019"
+            },
+            "end_promo": {
+                "date": "14 Agustus 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/00-landing-page-MOZAIK.jpg"
+        },
+        {
+            "title": "Dapur Penyet Diskon hingga 30%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1677",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20190903105335.jpg",
+            "area_promo": "Bandung",
+            "start_promo": {
+                "date": "03 September 2019"
+            },
+            "end_promo": {
+                "date": "14 Agustus 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/00-landing-page-PENYET.jpg"
+        },
+        {
+            "title": "Genki Sushi 20% Off F&B",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1685",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20190909095702.jpg",
+            "area_promo": "Nasional",
+            "start_promo": {
+                "date": "01 September 2019"
+            },
+            "end_promo": {
+                "date": "31 Agustus 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/REVISI%20GENKI%20LP%20-TAMBAHAN%20JOGJA.jpg"
+        },
+        {
+            "title": "The Jambuluwuk Restaurant Disc. 20%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1688",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20190909153828.jpg",
+            "area_promo": "Batu",
+            "start_promo": {
+                "date": "25 Agustus 2019"
+            },
+            "end_promo": {
+                "date": "24 Agustus 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/00-landing-page-JAMBULUWUK.jpg"
+        },
+        {
+            "title": "Nara Senopati Diskon 15% + 5%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1697",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200619103741.jpg",
+            "area_promo": "Jakarta",
+            "start_promo": {
+                "date": "01 Juni 2020"
+            },
+            "end_promo": {
+                "date": "30 September 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/0-landing-page-NARA.jpg"
+        },
+        {
+            "title": "Uchino Shokudo 20% OFF",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1699",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20190911114206.jpg",
+            "area_promo": "Jakarta, Tangerang",
+            "start_promo": {
+                "date": "01 September 2019"
+            },
+            "end_promo": {
+                "date": "31 Agustus 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/00-landing-page-UCHINO(1).jpg"
+        },
+        {
+            "title": "Kushiya Monogatari 20% OFF",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1703",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20190912140824.jpg",
+            "area_promo": "Tangerang",
+            "start_promo": {
+                "date": "01 September 2019"
+            },
+            "end_promo": {
+                "date": "31 Agustus 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/00-landing-page-KUSHIYA(1).jpg"
+        },
+        {
+            "title": "Isuka 20% Off",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1706",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20190916155557.jpg",
+            "error": "timeout of 25000ms exceeded"
+        },
+        {
+            "title": "Ayam Tulang Lunak Hayam Wuruk Diskon 20%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1710",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20190917111355.jpg",
+            "area_promo": "Yogyakarta",
+            "start_promo": {
+                "date": "01 September 2019"
+            },
+            "end_promo": {
+                "date": "31 Agustus 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/ATL-lp.jpg"
+        },
+        {
+            "title": "GreenLeaf Restaurant Diskon 15%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1714",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20190923131706.jpg",
+            "area_promo": "Malang",
+            "start_promo": {
+                "date": "15 September 2019"
+            },
+            "end_promo": {
+                "date": "14 September 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/1-landing-page-GREEN-LEAF.jpg"
+        },
+        {
+            "title": "Brussels Spring Diskon 10%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1715",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20190917141717.jpg",
+            "area_promo": "Bandung",
+            "start_promo": {
+                "date": "16 September 2019"
+            },
+            "end_promo": {
+                "date": "15 September 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/Brussels-lp.jpg"
+        },
+        {
+            "title": "Eight Treasures 20% off",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1723",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20190923154313.jpg",
+            "area_promo": "Jakarta",
+            "start_promo": {
+                "date": "01 September 2019"
+            },
+            "end_promo": {
+                "date": "31 Agustus 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/EightT-lp.jpg"
+        },
+        {
+            "title": "Nan Hwa Diskon 20%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1725",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20190926093143.jpg",
+            "area_promo": "Jakarta",
+            "start_promo": {
+                "date": "15 September 2019"
+            },
+            "end_promo": {
+                "date": "31 Agustus 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/00-landing-page-NAN-HWA.jpg"
+        },
+        {
+            "title": "Coffee & Co Diskon 20% - Golden Tulip",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1738",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20191001141558.jpg",
+            "area_promo": "Surabaya",
+            "start_promo": {
+                "date": "01 September 2019"
+            },
+            "end_promo": {
+                "date": "31 Agustus 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/0-landing-page-COFFEE-&-CO.jpg"
+        },
+        {
+            "title": "Momozen - Diskon 15% untuk makanan",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1740",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20191002102457.jpg",
+            "area_promo": "Jakarta",
+            "start_promo": {
+                "date": "05 Oktober 2019"
+            },
+            "end_promo": {
+                "date": "30 September 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/0-landing-page-MOMOZEN.jpg"
+        },
+        {
+            "title": "May Star Yogyakarta",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1744",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20191003101542.jpg",
+            "area_promo": "Yogyakarta",
+            "start_promo": {
+                "date": "01 September 2019"
+            },
+            "end_promo": {
+                "date": "31 Agustus 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/0-landing-page-MAYSTAR.jpg"
+        },
+        {
+            "title": "Sierra Cafe & Lounge",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1745",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20191003112248.jpg",
+            "area_promo": "Bandung",
+            "start_promo": {
+                "date": "15 September 2019"
+            },
+            "end_promo": {
+                "date": "15 September 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/0-landing-page-SIERRA.jpg"
+        },
+        {
+            "title": "Glass House",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1748",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20191003134348.jpg",
+            "area_promo": "Jakarta",
+            "start_promo": {
+                "date": "26 Agustus 2019"
+            },
+            "end_promo": {
+                "date": "31 Agustus 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/0-landing-page-GLASS-HOUSE(2).jpg"
+        },
+        {
+            "title": "Orient International Restaurant Diskon 15%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1755",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20191004144221.jpg",
+            "area_promo": "Solo",
+            "start_promo": {
+                "date": "16 Agustus 2019"
+            },
+            "end_promo": {
+                "date": "16 Agustus 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/00-landing-page-ORIENT.jpg"
+        },
+        {
+            "title": "Shabu Shabu Gen",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1756",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20191007095051.jpg",
+            "area_promo": "Jakarta",
+            "start_promo": {
+                "date": "05 Oktober 2019"
+            },
+            "end_promo": {
+                "date": "30 September 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/0-landing-page-SHABU-GEN_kn.jpg"
+        },
+        {
+            "title": "Lurik Coffee & Kitchen Diskon 15% ",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1760",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20191007140230.jpg",
+            "area_promo": "Jakarta",
+            "start_promo": {
+                "date": "01 Oktober 2019"
+            },
+            "end_promo": {
+                "date": "30 September 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/0-landing-page-LURIK.jpg"
+        },
+        {
+            "title": "BAE Socieaty - Diskon 15% untuk makanan",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1762",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20191007150103.jpg",
+            "area_promo": "Jakarta",
+            "start_promo": {
+                "date": "05 Oktober 2019"
+            },
+            "end_promo": {
+                "date": "30 September 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/1-landing-page-BAE.jpg"
+        },
+        {
+            "title": "Native Coffee Diskon 20%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1766",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20191007164724.jpg",
+            "area_promo": "Jakarta, Tangerang, Banten",
+            "start_promo": {
+                "date": "01 Oktober 2019"
+            },
+            "end_promo": {
+                "date": "30 September 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/0-landing-page-NATIVE.jpg"
+        },
+        {
+            "title": "Taste Van Java Diskon 10%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1773",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20191009144622.jpg",
+            "area_promo": "Surabaya",
+            "start_promo": {
+                "date": "01 Oktober 2019"
+            },
+            "end_promo": {
+                "date": "30 September 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/0-landing-page-VAN-JAVA.jpg"
+        },
+        {
+            "title": "Kayanna Diskon 15%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1775",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20191009152149.jpg",
+            "area_promo": "Surabaya",
+            "start_promo": {
+                "date": "01 Oktober 2019"
+            },
+            "end_promo": {
+                "date": "30 September 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/0-landing-page-KAYANNA.jpg"
+        },
+        {
+            "title": "Asia Bagoes Diskon 20%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1793",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20191018095223.jpg",
+            "area_promo": "Bandung",
+            "start_promo": {
+                "date": "25 September 2019"
+            },
+            "end_promo": {
+                "date": "30 September 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/1-landing-page-ASIA-BAGOES.jpg"
+        },
+        {
+            "title": "Eastern Sharks Fin Diskon 20%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1794",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20191018095644.jpg",
+            "area_promo": "Bandung",
+            "start_promo": {
+                "date": "25 September 2019"
+            },
+            "end_promo": {
+                "date": "30 September 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/1-landing-page-EASTERN-SHARK-FIN.jpg"
+        },
+        {
+            "title": "Kafetaria Diskon 20%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1795",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20191018100520.jpg",
+            "area_promo": "Bandung",
+            "start_promo": {
+                "date": "25 September 2019"
+            },
+            "end_promo": {
+                "date": "30 September 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/1-landing-page-KAFETARIA.jpg"
+        },
+        {
+            "title": "Kopi Scooter Diskon 20%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1796",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20191018102222.jpg",
+            "area_promo": "Bandung",
+            "start_promo": {
+                "date": "25 September 2019"
+            },
+            "end_promo": {
+                "date": "30 September 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/1-landing-page-KOPI-SCOOTER.jpg"
+        },
+        {
+            "title": "Grand Tjokro - Diskon hingga 50%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1797",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20191018112056.jpg",
+            "area_promo": "Balikpapan",
+            "start_promo": {
+                "date": "03 September 2019"
+            },
+            "end_promo": {
+                "date": "02 September 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/3-landing-page-GRAND-TJOKRO.jpg"
+        },
+        {
+            "title": "Kedai Kopi 170 Diskon 20%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1799",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20191018145440.jpg",
+            "area_promo": "Bandung",
+            "start_promo": {
+                "date": "25 September 2019"
+            },
+            "end_promo": {
+                "date": "30 September 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/1-landing-page-KEDAI-KOPI_kn.jpg"
+        },
+        {
+            "title": "Mangkok Ayam Diskon 20%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1800",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20191018145902.jpg",
+            "area_promo": "Bandung",
+            "start_promo": {
+                "date": "25 September 2019"
+            },
+            "end_promo": {
+                "date": "30 September 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/1-landing-page-MANGKOK-AYAM_kn.jpg"
+        },
+        {
+            "title": "Peony Restaurant at The Rich Jogja Hotel - Diskon 20%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1802",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20191021142535.jpg",
+            "area_promo": "Yogyakarta",
+            "start_promo": {
+                "date": "01 September 2019"
+            },
+            "end_promo": {
+                "date": "31 Agustus 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/1-landing-page-RICH-JOGJA(1).jpg"
+        },
+        {
+            "title": "Lee Claypot Diskon 10%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1805",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20191021144159.jpg",
+            "area_promo": "Surabaya",
+            "start_promo": {
+                "date": "01 Oktober 2019"
+            },
+            "end_promo": {
+                "date": "30 September 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/0-landing-page-LEE-CLAYPOT.jpg"
+        },
+        {
+            "title": "Seribu Rempah Diskon 10%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1808",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20191021144801.jpg",
+            "area_promo": "Surabaya",
+            "start_promo": {
+                "date": "01 Oktober 2019"
+            },
+            "end_promo": {
+                "date": "30 September 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/0-landing-page-SERIBU-REMPAH.jpg"
+        },
+        {
+            "title": "Batagor Riri Diskon 10%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1814",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20191023151318.jpg",
+            "area_promo": "Bandung",
+            "start_promo": {
+                "date": "01 November 2019"
+            },
+            "end_promo": {
+                "date": "31 Oktober 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/0-landing-page-BATAGOR-RIRI.jpg"
+        },
+        {
+            "title": "Xin Yi - Diskon 15%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1823",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20191029110445.jpg",
+            "area_promo": "Bandung",
+            "start_promo": {
+                "date": "15 September 2019"
+            },
+            "end_promo": {
+                "date": "14 September 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/0-landing-page-XIN-YI.jpg"
+        },
+        {
+            "title": "Biztro - Diskon 15%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1825",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20191030111037.jpg",
+            "area_promo": "Salatiga",
+            "start_promo": {
+                "date": "15 September 2019"
+            },
+            "end_promo": {
+                "date": "15 September 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/1-landing-page-BIZTRO.jpg"
+        },
+        {
+            "title": "Great Room Restaurants at Holiday Inn Express Wahid Hasyim - Diskon 20%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1828",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20191031173754.jpg",
+            "area_promo": "Jakarta",
+            "start_promo": {
+                "date": "14 Oktober 2019"
+            },
+            "end_promo": {
+                "date": "30 September 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/0-landing-page-HOLIDAY-INN.jpg"
+        },
+        {
+            "title": "The Eatery by Four Points Hotel - Diskon hingga 25%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1839",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20191104183356.jpg",
+            "error": "read ECONNRESET"
+        },
+        {
+            "title": "Cin Long Chinese & Seafood Restaurant - Diskon 15% Dim Sum",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1842",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20191106102611.jpg",
+            "area_promo": "Pekalongan",
+            "start_promo": {
+                "date": "01 Oktober 2019"
+            },
+            "end_promo": {
+                "date": "30 September 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/0-landing-page-CIN-LONG.jpg"
+        },
+        {
+            "title": "Savoi Ultralounge - Izakaya Diskon hingga 20%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1846",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20191106160836.jpg",
+            "area_promo": "Jakarta",
+            "start_promo": {
+                "date": "15 November 2019"
+            },
+            "end_promo": {
+                "date": "14 September 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/1-landing-page-SAVOI.jpg"
+        },
+        {
+            "title": "Ayam Bakar Primarasa - Diskon 40%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1860",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20191108214243.jpg",
+            "area_promo": "Semarang",
+            "start_promo": {
+                "date": "01 Oktober 2019"
+            },
+            "end_promo": {
+                "date": "30 September 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/0-landing-page-AYAM-PRIMARASA.jpg"
+        },
+        {
+            "title": "PAUL Diskon 20%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1865",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20191115170217.jpg",
+            "area_promo": "Jakarta",
+            "start_promo": {
+                "date": "15 November 2019"
+            },
+            "end_promo": {
+                "date": "18 September 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/PAUL-lp(1).jpg"
+        },
+        {
+            "title": "Primaraja Sari Resto Diskon 15%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1867",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20191118100724.jpg",
+            "area_promo": "Semarang",
+            "start_promo": {
+                "date": "01 November 2019"
+            },
+            "end_promo": {
+                "date": "31 Oktober 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/Primaraja_lp.jpg"
+        },
+        {
+            "title": "Grand Pacific Restaurant Diskon 20%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1870",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20191119100032.jpg",
+            "area_promo": "Yogyakarta",
+            "start_promo": {
+                "date": "13 November 2019"
+            },
+            "end_promo": {
+                "date": "13 November 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/Grand%20Pacific_lp.jpg"
+        },
+        {
+            "title": "Yokiyo Diskon 10%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1871",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20191119155136.jpg",
+            "area_promo": "Bandung",
+            "start_promo": {
+                "date": "01 November 2019"
+            },
+            "end_promo": {
+                "date": "30 Oktober 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/YOKIYO_lp.jpg"
+        },
+        {
+            "title": "Makan Bareng Mega Medan - Diskon hingga 50%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1880",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20191122174117.jpg",
+            "area_promo": "Medan",
+            "start_promo": {
+                "date": "01 November 2019"
+            },
+            "end_promo": {
+                "date": "20 Agustus 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/Medan%20Food_lp.jpg"
+        },
+        {
+            "title": "Visa Singapore Diskon hingga 50%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1934",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20191213185913.jpg",
+            "area_promo": "Singapore",
+            "start_promo": {
+                "date": "13 Desember 2019"
+            },
+            "end_promo": {
+                "date": "31 Desember 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/VisaSG-lp.jpg"
+        },
+        {
+            "title": "Restoran Xiang Yuen ( Hotel Grand Candi) - Diskon Hingga 25%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1980",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200103153253.jpg",
+            "area_promo": "Semarang",
+            "start_promo": {
+                "date": "25 November 2019"
+            },
+            "end_promo": {
+                "date": "25 November 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/BM%20asset_lp(18).jpg"
+        },
+        {
+            "title": "Pizza Marzano Diskon 20%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1978",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200103140146.jpg",
+            "area_promo": "Nasional",
+            "start_promo": {
+                "date": "01 Januari 2020"
+            },
+            "end_promo": {
+                "date": "30 November 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/PizzaMarzano_lp_takeaway.jpg"
+        },
+        {
+            "title": "Akasaka Tei Diskon 20%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1983",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200106164758.jpg",
+            "area_promo": "Semarang",
+            "start_promo": {
+                "date": "02 Januari 2020"
+            },
+            "end_promo": {
+                "date": "30 November 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/BM%20asset%20akasaka_lp.jpg"
+        },
+        {
+            "title": "Warung Tekko Diskon 15%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1986",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200106175529.jpg",
+            "area_promo": "Nasional",
+            "start_promo": {
+                "date": "10 Januari 2020"
+            },
+            "end_promo": {
+                "date": "31 Juli 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/WarungTekko_lp.jpg"
+        },
+        {
+            "title": "Fish & Co - Diskon 20%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2022",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200127142939.jpg",
+            "area_promo": "Jabodetabek",
+            "start_promo": {
+                "date": "22 Januari 2020"
+            },
+            "end_promo": {
+                "date": "21 Januari 2021"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/Fish&Co_lp.jpg"
+        },
+        {
+            "title": "Oits Diskon 20%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2024",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200127145555.jpg",
+            "area_promo": "Semarang",
+            "start_promo": {
+                "date": "31 Desember 2019"
+            },
+            "end_promo": {
+                "date": "30 November 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/BM%20asset%20alt2ai_lp.jpg"
+        },
+        {
+            "title": "Ayam Malioboro Diskon 10%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2025",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200127162859.jpg",
+            "area_promo": "Surakarta",
+            "start_promo": {
+                "date": "18 Januari 2020"
+            },
+            "end_promo": {
+                "date": "17 Januari 2021"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/BM%20asset%20malioboro_lp.jpg"
+        },
+        {
+            "title": "Green Eastern Diskon 20%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2026",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200127163931.jpg",
+            "area_promo": "Cirebon",
+            "start_promo": {
+                "date": "13 Januari 2020"
+            },
+            "end_promo": {
+                "date": "31 Desember 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/Green%20Eastern_lp.jpg"
+        },
+        {
+            "title": "Intro Bistro Diskon 15%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2073",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200305110540.jpg",
+            "area_promo": "Banjarmasin",
+            "start_promo": {
+                "date": "13 Februari 2020"
+            },
+            "end_promo": {
+                "date": "12 Februari 2021"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/BM%20asset%20intro%20bistro_lp.jpg"
+        },
+        {
+            "title": "Magal BBQ Diskon 20%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2038",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200205102003.jpg",
+            "area_promo": "Balikpapan",
+            "start_promo": {
+                "date": "27 Februari 2020"
+            },
+            "end_promo": {
+                "date": "26 Juli 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/BM%20asset%20magal_lp.jpg"
+        },
+        {
+            "title": "Zenbu Diskon 20%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2039",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200205112219.jpg",
+            "area_promo": "Nasional",
+            "start_promo": {
+                "date": "20 Januari 2020"
+            },
+            "end_promo": {
+                "date": "20 Juli 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/BM%20asset%20zenbu_lp_KN.jpg"
+        },
+        {
+            "title": "Killiney Diskon 10%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2046",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200207091726.jpg",
+            "area_promo": "Makassar",
+            "start_promo": {
+                "date": "24 Januari 2020"
+            },
+            "end_promo": {
+                "date": "24 Januari 2021"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/0-landing-page-KILLENEY.jpg"
+        },
+        {
+            "title": "Beatrice Quarters Diskon 20%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2047",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200211101516.jpg",
+            "area_promo": "Jakarta, Tangerang",
+            "start_promo": {
+                "date": "20 Januari 2020"
+            },
+            "end_promo": {
+                "date": "20 Juli 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/Beatrice_lp.jpg"
+        },
+        {
+            "title": "Ming Palace Diskon 15%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2056",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200217143025.jpg",
+            "area_promo": "Jakarta",
+            "start_promo": {
+                "date": "18 Februari 2020"
+            },
+            "end_promo": {
+                "date": "17 Februari 2021"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/MING_lp.jpg"
+        },
+        {
+            "title": "Bamega Lounge Diskon 15%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2065",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200228102732.jpg",
+            "area_promo": "Banjarmasin",
+            "start_promo": {
+                "date": "07 Februari 2020"
+            },
+            "end_promo": {
+                "date": "06 Februari 2021"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/BAMEGA_lp.jpg"
+        },
+        {
+            "title": "Terasky Restaurant Diskon 15%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2067",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200302100151.jpg",
+            "area_promo": "Pontianak",
+            "start_promo": {
+                "date": "15 Februari 2020"
+            },
+            "end_promo": {
+                "date": "14 Februari 2021"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/Terasky_lp.jpg"
+        },
+        {
+            "title": "RM Losari Diskon 15%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2068",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200302162328.jpg",
+            "area_promo": "Makassar",
+            "start_promo": {
+                "date": "14 Februari 2020"
+            },
+            "end_promo": {
+                "date": "13 Februari 2021"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/RM%20Losari_lp.jpg"
+        },
+        {
+            "title": "Excelso Diskon 20%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2069",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200302172249.jpg",
+            "area_promo": "Nasional",
+            "start_promo": {
+                "date": "21 Februari 2020"
+            },
+            "end_promo": {
+                "date": "07 Februari 2021"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/0-landing-page-EXCELSO.jpg"
+        },
+        {
+            "title": "Krispy Kreme Diskon 20%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2071",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200304171833.jpg",
+            "area_promo": "Nasional",
+            "start_promo": {
+                "date": "01 Maret 2020"
+            },
+            "end_promo": {
+                "date": "31 Desember 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/Krispy%20Kreme_lp.jpg"
+        },
+        {
+            "title": "Radja Gurame Diskon 15%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2075",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200306160103.jpg",
+            "area_promo": "Jakarta, Tangerang",
+            "start_promo": {
+                "date": "15 Januari 2020"
+            },
+            "end_promo": {
+                "date": "31 Desember 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/RadjaGurame_lp.jpg"
+        },
+        {
+            "title": "Dapur Radja Diskon 15%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2076",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200306160205.jpg",
+            "area_promo": "Jakarta",
+            "start_promo": {
+                "date": "15 Januari 2020"
+            },
+            "end_promo": {
+                "date": "31 Desember 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/DapurRadja_lp.jpg"
+        },
+        {
+            "title": "Magal BBQ Diskon 10%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2087",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200311112051.jpg",
+            "area_promo": "Semarang",
+            "start_promo": {
+                "date": "24 Februari 2020"
+            },
+            "end_promo": {
+                "date": "25 Agustus 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/Magal_lp(1).jpg"
+        },
+        {
+            "title": "Makan Bareng Mega Trans Studio Cibubur Diskon hingga 50%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2091",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200313100148.jpg",
+            "area_promo": "Jakarta",
+            "start_promo": {
+                "date": "01 Maret 2020"
+            },
+            "end_promo": {
+                "date": "31 Desember 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/TSMCibubur_lp.jpg"
+        },
+        {
+            "title": "Ebisuya Diskon 15%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2092",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200313100735.jpg",
+            "area_promo": "Jakarta, Tangerang",
+            "start_promo": {
+                "date": "01 Maret 2020"
+            },
+            "end_promo": {
+                "date": "31 Agustus 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/BM%20asset%20karawaci_lp.jpg"
+        },
+        {
+            "title": "Tekodeko Diskon 20%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2095",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200317105700.jpg",
+            "area_promo": "Semarang",
+            "start_promo": {
+                "date": "15 Januari 2020"
+            },
+            "end_promo": {
+                "date": "14 Desember 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/BM%20asset%20tekodeko_lp.jpg"
+        },
+        {
+            "title": "Megumi Diskon 20%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2096",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200317110319.jpg",
+            "area_promo": "Banjarmasin",
+            "start_promo": {
+                "date": "15 Januari 2020"
+            },
+            "end_promo": {
+                "date": "14 Januari 2021"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/BM%20asset%20megumi_lp.jpg"
+        },
+        {
+            "title": "Daily Bread Diskon 15%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2101",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200323143706.jpg",
+            "area_promo": "Jakarta",
+            "start_promo": {
+                "date": "23 Maret 2020"
+            },
+            "end_promo": {
+                "date": "16 Maret 2021"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/DailyBread_lp.jpg"
+        },
+        {
+            "title": "Kedai Sonja Diskon 15%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2102",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200323143816.jpg",
+            "area_promo": "Jakarta",
+            "start_promo": {
+                "date": "23 Maret 2020"
+            },
+            "end_promo": {
+                "date": "16 Maret 2021"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/KedaiSonja_lp.jpg"
+        },
+        {
+            "title": "Warung Layar Sentuh Diskon 10%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2111",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200327094341.jpg",
+            "area_promo": "Yogyakarta",
+            "start_promo": {
+                "date": "01 Maret 2020"
+            },
+            "end_promo": {
+                "date": "31 Januari 2021"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/WrgLayarSentuh-lp.jpg"
+        },
+        {
+            "title": "Cafe Brick Diskon 10%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2112",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200327150252.jpg",
+            "area_promo": "Yogyakarta",
+            "start_promo": {
+                "date": "01 Februari 2020"
+            },
+            "end_promo": {
+                "date": "31 Januari 2021"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/CafeBrick-lp.jpg"
+        },
+        {
+            "title": "Zafferano Diskon 15%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2125",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200407132331.jpg",
+            "area_promo": "Makassar",
+            "start_promo": {
+                "date": "24 Maret 2020"
+            },
+            "end_promo": {
+                "date": "23 Maret 2021"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/BM%20asset%20Zafferano_lp.jpg"
+        },
+        {
+            "title": "Classified Diskom 20%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2126",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200407132919.jpg",
+            "area_promo": "Jakarta",
+            "start_promo": {
+                "date": "15 Maret 2020"
+            },
+            "end_promo": {
+                "date": "15 September 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/Classified_lp.jpg"
+        },
+        {
+            "title": "CRT Seafood Diskon 20%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2133",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200415110431.jpg",
+            "area_promo": "Makassar",
+            "start_promo": {
+                "date": "01 April 2020"
+            },
+            "end_promo": {
+                "date": "30 September 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/0-landing-page-CRT.jpg"
+        },
+        {
+            "title": "JJ Steak Diskon 20%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2146",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200420102609.jpg",
+            "area_promo": "Balikpapan",
+            "start_promo": {
+                "date": "08 Agustus 2019"
+            },
+            "end_promo": {
+                "date": "07 Juli 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/BM%20asset%20JJ%20steak_lp.jpg"
+        },
+        {
+            "title": "Henkasu ",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2148",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200420112253.jpg",
+            "area_promo": "Semarang",
+            "start_promo": {
+                "date": "29 Maret 2020"
+            },
+            "end_promo": {
+                "date": "28 Februari 2021"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/0-landing-page-HENKASU.jpg"
+        },
+        {
+            "title": "Hokben VISA - Gratis 1 Paket Hoka Hemat",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2150",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200421092353.jpg",
+            "area_promo": "Nasional",
+            "start_promo": {
+                "date": "21 April 2020"
+            },
+            "end_promo": {
+                "date": "30 November 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/2-landing-page-HOKBEN.jpg"
+        },
+        {
+            "title": "Ayam Tenes Diskon 10%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2156",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200427105727.jpg",
+            "area_promo": "Malang",
+            "start_promo": {
+                "date": "20 April 2020"
+            },
+            "end_promo": {
+                "date": "19 Maret 2021"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/BM%20asset%20ayam%20tenes_lp.jpg"
+        },
+        {
+            "title": "Warkop Bagios Diskon 15%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2157",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200427142229.jpg",
+            "area_promo": "Samarinda",
+            "start_promo": {
+                "date": "14 April 2020"
+            },
+            "end_promo": {
+                "date": "13 April 2021"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/BM%20asset%20warkop%20bagio_lp(1).jpg"
+        },
+        {
+            "title": "Baskin Robbins PINT Buy 2 Get 1 Free",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2184",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200618095506.jpg",
+            "area_promo": "Nasional",
+            "start_promo": {
+                "date": "01 Juni 2020"
+            },
+            "end_promo": {
+                "date": "05 Juli 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/BRjune-sosmed.jpg"
+        },
+        {
+            "title": "Cashback 5% di Kulina's Wallet dengan Metro Mega Card",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2187",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200612165253.jpg",
+            "area_promo": "Nasional",
+            "start_promo": {
+                "date": "15 Mei 2020"
+            },
+            "end_promo": {
+                "date": "31 Desember 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/2-landing-page-KULINA.jpg"
+        },
+        {
+            "title": "The Brotherhood Diskon 10% + 5%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2195",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200619181624.jpg",
+            "area_promo": "Jakarta",
+            "start_promo": {
+                "date": "08 Juni 2020"
+            },
+            "end_promo": {
+                "date": "30 September 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/TheBrotherhood_lp.jpg"
+        },
+        {
+            "title": "Beer Brother Diskon 20% + 5%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2196",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200619184740.jpg",
+            "area_promo": "Jakarta",
+            "start_promo": {
+                "date": "08 Juni 2020"
+            },
+            "end_promo": {
+                "date": "30 September 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/BeerBrother-lp(1).jpg"
+        }
+    ],
+    "Lifestyle": [
+        {
+            "title": "Batik Unggul Jaya Diskon 15%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1656",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20190823174728.jpg",
+            "area_promo": "Pekalongan",
+            "start_promo": {
+                "date": "19 Agustus 2019"
+            },
+            "end_promo": {
+                "date": "01 Agustus 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/BtikUnggul-lp(1).jpg"
+        },
+        {
+            "title": "Bratpack - Diskon Hingga 20%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1952",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20191223124319.jpg",
+            "area_promo": "Jakarta",
+            "start_promo": {
+                "date": "01 Desember 2019"
+            },
+            "end_promo": {
+                "date": "31 Desember 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/BM%20asset_lp(12).jpg"
+        },
+        {
+            "title": "Cicilan E-Commerce Hingga 6 Bulan ",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1953",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20191223172028.jpg",
+            "area_promo": "Nasional",
+            "start_promo": {
+                "date": "23 Desember 2019"
+            },
+            "end_promo": {
+                "date": "31 Desember 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/Cicilan0%_lp(1).jpg"
+        },
+        {
+            "title": "Columbia - Diskon Hingga 20%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1955",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20191226080254.jpg",
+            "area_promo": "Nasional",
+            "start_promo": {
+                "date": "01 Desember 2019"
+            },
+            "end_promo": {
+                "date": "30 November 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/BM%20asset%20colombia_lp.jpg"
+        },
+        {
+            "title": "Flight001 - Diskon Hingga 20%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1957",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20191226082648.jpg",
+            "area_promo": "Jakarta",
+            "start_promo": {
+                "date": "01 Desember 2019"
+            },
+            "end_promo": {
+                "date": "30 November 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/BM%20asset%20flight%20_lp.jpg"
+        },
+        {
+            "title": "Herschel - Diskon Hingga 20%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1958",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20191226083246.jpg",
+            "area_promo": "Bali",
+            "start_promo": {
+                "date": "01 Desember 2019"
+            },
+            "end_promo": {
+                "date": "30 November 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/BM%20asset%20herschel_lp.jpg"
+        },
+        {
+            "title": "Fitflop - Diskon Hingga 20%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1960",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20191226115456.jpg",
+            "area_promo": "Nasional",
+            "start_promo": {
+                "date": "01 Desember 2019"
+            },
+            "end_promo": {
+                "date": "30 November 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/BM%20asset%20flip%20flop_lp(2).jpg"
+        },
+        {
+            "title": "Grand Sport (Hotel Grand Candi) - Diskon Hingga 40%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1981",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200103160251.jpg",
+            "area_promo": "Semarang",
+            "start_promo": {
+                "date": "25 November 2019"
+            },
+            "end_promo": {
+                "date": "25 November 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/BM%20asset_lp(19).jpg"
+        },
+        {
+            "title": "Porsckit Auto Garage - Diskon Hingga 15%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1988",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200107133949.jpg",
+            "area_promo": "Samarinda",
+            "start_promo": {
+                "date": "26 Desember 2019"
+            },
+            "end_promo": {
+                "date": "30 November 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/Porsckit_lp.jpg"
+        },
+        {
+            "title": "Batik Salma Diskon 10%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2027",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200127175611.jpg",
+            "area_promo": "Bandung",
+            "start_promo": {
+                "date": "01 Januari 2020"
+            },
+            "end_promo": {
+                "date": "31 Desember 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/0A-landing-page-BATIK-SALMA.jpg"
+        },
+        {
+            "title": "Red Wine Diskon 10%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2029",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200128090119.jpg",
+            "area_promo": "Makassar",
+            "start_promo": {
+                "date": "10 Oktober 2019"
+            },
+            "end_promo": {
+                "date": "10 Oktober 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/0-landing-page-RED-WINE.jpg"
+        },
+        {
+            "title": "Reebonz Diskon 10% & Cicilan 0%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2057",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200218092003.jpg",
+            "area_promo": "Nasional",
+            "start_promo": {
+                "date": "01 Januari 2020"
+            },
+            "end_promo": {
+                "date": "31 Desember 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/0-landing-page-REEBONZ(3).jpg"
+        },
+        {
+            "title": "Transaksi Online dengan Metro Mega Card",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2113",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200330113257.jpg",
+            "area_promo": "Nasional",
+            "start_promo": {
+                "date": "01 Maret 2020"
+            },
+            "end_promo": {
+                "date": "31 Desember 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/2-landing-page-TITANIUM-INSURANCE1.jpeg"
+        },
+        {
+            "title": "Zalora Diskon 23%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2115",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200401160911.jpg",
+            "area_promo": "Nasional",
+            "start_promo": {
+                "date": "18 Maret 2020"
+            },
+            "end_promo": {
+                "date": "31 Januari 2021"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/1-landing-page-ZALORA(1).jpg"
+        },
+        {
+            "title": "Zalora Diskon 15%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2117",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200401165517.jpg",
+            "area_promo": "Nasional",
+            "start_promo": {
+                "date": "18 Maret 2020"
+            },
+            "end_promo": {
+                "date": "31 Januari 2021"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/Zalora15-lp.jpg"
+        },
+        {
+            "title": "Zalora Diskon 18%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2136",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200415112942.jpg",
+            "area_promo": "Nasional",
+            "start_promo": {
+                "date": "13 April 2020"
+            },
+            "end_promo": {
+                "date": "31 Januari 2021"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/Zalora18-lp.jpg"
+        },
+        {
+            "title": "Bukalapak Diskon Rp100.000,-",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2139",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200415145434.jpg",
+            "area_promo": "Nasional",
+            "start_promo": {
+                "date": "01 Maret 2020"
+            },
+            "end_promo": {
+                "date": "31 Agustus 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/1-landing-page-BUKALAPAK.jpg"
+        },
+        {
+            "title": "Happy Fresh - Diskon 50 ribu",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2163",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200430165503.jpg",
+            "area_promo": "Nasional",
+            "start_promo": {
+                "date": "30 April 2020"
+            },
+            "end_promo": {
+                "date": "27 Desember 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/HF-lp.jpg"
+        },
+        {
+            "title": "Metro Mega Card, eCommerce -  Diskon Hingga 20%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2175",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200518115559.jpg",
+            "area_promo": "Nasional",
+            "start_promo": {
+                "date": "18 Mei 2020"
+            },
+            "end_promo": {
+                "date": "30 Desember 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/1-landing-page-MMC-PROMO%20REV.jpg"
+        },
+        {
+            "title": "JD.ID VISA SUNDAY",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2189",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200617112415.jpg",
+            "area_promo": "Nasional",
+            "start_promo": {
+                "date": "17 Juni 2020"
+            },
+            "end_promo": {
+                "date": "27 September 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/0-landing-page-JDID.jpg"
+        },
+        {
+            "title": "Cashback Rp750.000 untuk Pembelian Samsung Galaxy S20+ Edisi BTS",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2199",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200625173215.jpg",
+            "area_promo": "Nasional",
+            "start_promo": {
+                "date": "19 Juni 2020"
+            },
+            "end_promo": {
+                "date": "05 Juli 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/0-landing-page-SAMSUNG-BTS(1).jpg"
+        },
+        {
+            "title": "Diskon hingga 10% di Transmart Carrefour",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2204",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200701145109.jpg",
+            "area_promo": "Nasional",
+            "start_promo": {
+                "date": "01 Juli 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/LP%20Transmart%20(3).jpg"
+        }
+    ],
+    "Gadget & Entertainment": [
+        {
+            "title": "RS Mayapada - Diskon Hingga 10%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2183",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200609144001.jpg",
+            "area_promo": "Jakarta, Tangerang, Bogor",
+            "start_promo": {
+                "date": "01 Juni 2020"
+            },
+            "end_promo": {
+                "date": "31 Desember 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/0-landing-page-RS-MAYAPADA.jpg"
+        },
+        {
+            "title": "Nakamura Pay 2 Get 3",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1689",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20190909162845.jpg",
+            "area_promo": "Kediri & Tulungagung",
+            "start_promo": {
+                "date": "26 Agustus 2019"
+            },
+            "end_promo": {
+                "date": "25 Agustus 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/00-landing-page-NAKAMURA(1).jpg"
+        },
+        {
+            "title": "RS Hermina - Diskon hingga 10%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1876",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20191121144805.jpg",
+            "area_promo": "Yogyakarta",
+            "start_promo": {
+                "date": "15 Oktober 2019"
+            },
+            "end_promo": {
+                "date": "30 September 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/HERMINA-lp.jpg"
+        },
+        {
+            "title": "Cito Laboratorium Klinik - Diskon hingga 25%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1924",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20191211191743.jpg",
+            "area_promo": "Nasional",
+            "start_promo": {
+                "date": "01 Desember 2019"
+            },
+            "end_promo": {
+                "date": "30 November 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/CITO-lp.jpg"
+        },
+        {
+            "title": "RS JIH - Diskon hingga 20%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1939",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20191217145221.jpg",
+            "area_promo": "Yogyakarta",
+            "start_promo": {
+                "date": "10 Desember 2019"
+            },
+            "end_promo": {
+                "date": "09 Desember 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/BM%20asset%20RS%20JIH_lp.jpg"
+        },
+        {
+            "title": "RS JIH - Diskon hingga 15%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1989",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200107144342.jpg",
+            "area_promo": "Solo",
+            "start_promo": {
+                "date": "01 Januari 2020"
+            },
+            "end_promo": {
+                "date": "01 Januari 2021"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/JIHsolo-lp.jpg"
+        },
+        {
+            "title": "Dental Solutions - Diskon hingga 20%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2020",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200123183146.jpg",
+            "area_promo": "Samarinda",
+            "start_promo": {
+                "date": "26 Desember 2019"
+            },
+            "end_promo": {
+                "date": "30 November 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/DENTAL-lp.jpg"
+        },
+        {
+            "title": "RS. Mitra Medika - Diskon 15%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2108",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200326143757.jpg",
+            "area_promo": "Pontianak",
+            "start_promo": {
+                "date": "13 Maret 2020"
+            },
+            "end_promo": {
+                "date": "12 Maret 2021"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/BM%20asset%20mitra%20medika_lp.jpg"
+        },
+        {
+            "title": "Anna Wijaya Dental Care - Diskon 10% Untuk Semua Perawatan",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2119",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200402122858.jpg",
+            "area_promo": "Makassar",
+            "start_promo": {
+                "date": "06 Maret 2020"
+            },
+            "end_promo": {
+                "date": "05 Maret 2021"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/0-landing-page-ANNA-WIJAYA.jpg"
+        },
+        {
+            "title": "Prodia - Diskon Hingga 15%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2127",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200408084242.jpg",
+            "area_promo": "Nasional",
+            "start_promo": {
+                "date": "03 April 2020"
+            },
+            "end_promo": {
+                "date": "31 Maret 2021"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/0-landing-page-PRODIA.jpg"
+        },
+        {
+            "title": "RS Bunda - Diskon 10%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2131",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200415102050.jpg",
+            "area_promo": "Semarang",
+            "start_promo": {
+                "date": "01 April 2020"
+            },
+            "end_promo": {
+                "date": "31 Maret 2021"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/BM%20asset%20Bunda%20solo_lp.jpg"
+        },
+        {
+            "title": "RS. Hermina - Diskon 15%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2132",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200415113216.jpg",
+            "area_promo": "Solo",
+            "start_promo": {
+                "date": "20 April 2020"
+            },
+            "end_promo": {
+                "date": "30 April 2021"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/BM%20asset%20Hermina_lp.jpg"
+        },
+        {
+            "title": "Laboratorium Klinik Pramita Diskon 15%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2172",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200514091437.jpg",
+            "area_promo": "Makassar",
+            "start_promo": {
+                "date": "16 Maret 2020"
+            },
+            "end_promo": {
+                "date": "17 Maret 2021"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/0-landing-page-PRAMITA-LAB.jpg"
+        },
+        {
+            "title": "RS. Bethsaida - Diskon Hingga 10%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2180",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200522152136.jpg",
+            "area_promo": "Jakarta",
+            "start_promo": {
+                "date": "01 Juni 2020"
+            },
+            "end_promo": {
+                "date": "31 Mei 2021"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/0-landing-page-RS-BETHSAIDA.jpg"
+        },
+        {
+            "title": "Cahayasaga Clinic & Diagnostic Center - Diskon Hingga 25%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2185",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200612113703.jpg",
+            "area_promo": "Makassar",
+            "start_promo": {
+                "date": "01 Juni 2020"
+            },
+            "end_promo": {
+                "date": "01 Juni 2021"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/0-landing-page-RS-CAHAYASAGA.jpg"
+        },
+        {
+            "title": "RS. Sandi Karsa - Diskon Hingga 10%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2188",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200616152948.jpg",
+            "area_promo": "Makassar",
+            "start_promo": {
+                "date": "01 Juni 2020"
+            },
+            "end_promo": {
+                "date": "01 Juni 2021"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/0-landing-page-RS-SANDI-KARSA.jpg"
+        },
+        {
+            "title": "Diskon 13% untuk Paket Langganan Classpass dengan Metro Mega Card",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2192",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200618113448.jpg",
+            "area_promo": "Nasional",
+            "start_promo": {
+                "date": "15 Maret 2020"
+            },
+            "end_promo": {
+                "date": "15 Maret 2021"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/Classpass-lp.jpg"
+        }
+    ],
+    "Others": [
+        {
+            "title": "Aktivasi Kartu Kredit dan PIN",
+            "url": "https://www.bankmega.com/promo_detail.php?id=501",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20191003104836.jpg",
+            "area_promo": "Nasional",
+            "start_promo": {
+                "date": "30 Mei 2017"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/AKTIVASI-CC-lp-CS5-revrainy.jpg"
+        },
+        {
+            "title": "Biaya SMS Notifikasi Transaksi Kartu Kredit",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1770",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20191009110051.jpg",
+            "area_promo": "Nasional",
+            "start_promo": {
+                "date": "20 November 2019"
+            },
+            "end_promo": {
+                "date": "31 Desember 2024"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/SMSnotif-lp.jpg"
+        },
+        {
+            "title": "Perubahan Minimum Payment",
+            "url": "https://www.bankmega.com/promo_detail.php?id=393",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20170223131927.jpg",
+            "area_promo": "Nasional",
+            "start_promo": {
+                "date": "01 Maret 2017"
+            },
+            "end_promo": {
+                "date": "31 Desember 2027"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/minimum%20payment-lp-%20rev.jpg"
+        },
+        {
+            "title": "Perubahan Perhitungan Suku Bunga Kartu Kredit",
+            "url": "https://www.bankmega.com/promo_detail.php?id=636",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20170919162105.jpg",
+            "area_promo": "Nasional",
+            "start_promo": {
+                "date": "23 Maret 2020"
+            },
+            "end_promo": {
+                "date": "31 Desember 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/Bagan%20Perhitungan%20Bunga%20KK%20-%20updateapril2020-01.jpg"
+        },
+        {
+            "title": "Fraud Awareness",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1023",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20180709151827.jpg",
+            "area_promo": "Nasional",
+            "start_promo": {
+                "date": "09 Juli 2018"
+            },
+            "end_promo": {
+                "date": "09 Juli 2028"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/FraudAwareness-LP.jpg"
+        },
+        {
+            "title": "Martha Tilaar Salon Day Spa - Diskon 15%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1877",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20191121161112.jpg",
+            "area_promo": "Jakarta, Surabaya, Cirebon",
+            "start_promo": {
+                "date": "15 November 2019"
+            },
+            "end_promo": {
+                "date": "15 November 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/MARTHATILAAR-lp.jpg"
+        },
+        {
+            "title": "Penyesuaian Biaya E-Billing",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1879",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20191121182432.jpg",
+            "area_promo": "Nasional",
+            "start_promo": {
+                "date": "02 Januari 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/Perubahan-billing-LP.jpg"
+        },
+        {
+            "title": "Royal Family Spa - Diskon hingga 25%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1943",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20191218164653.jpg",
+            "area_promo": "Kediri",
+            "start_promo": {
+                "date": "04 Desember 2019"
+            },
+            "end_promo": {
+                "date": "03 Desember 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/BM%20asset%20spa%20kediri_lp.jpg"
+        },
+        {
+            "title": "DPax Barbershop - Diskon Hingga 20%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=1948",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20191219162409.jpg",
+            "area_promo": "Jabodetabek",
+            "start_promo": {
+                "date": "15 November 2019"
+            },
+            "end_promo": {
+                "date": "15 November 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/BM%20asset_lp(10).jpg"
+        },
+        {
+            "title": "MegaReward 2020",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2021",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200124164548.jpg",
+            "area_promo": "Nasional",
+            "start_promo": {
+                "date": "16 Januari 2020"
+            },
+            "end_promo": {
+                "date": "31 Desember 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/LP%20MEga%20Poin.png"
+        },
+        {
+            "title": "Martha Tilaar Salon Day Spa - Diskon 15%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2042",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200205174658.jpg",
+            "area_promo": "Pontianak",
+            "start_promo": {
+                "date": "09 Januari 2020"
+            },
+            "end_promo": {
+                "date": "08 Januari 2021"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/BM%20asset%20martha%20tilaar_lp.jpg"
+        },
+        {
+            "title": "Karaoke Masterpiece Signature - Diskon 50%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2062",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200504155902.jpg",
+            "area_promo": "Samarinda",
+            "start_promo": {
+                "date": "10 Januari 2020"
+            },
+            "end_promo": {
+                "date": "31 Desember 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/BM%20asset%20masterpiece_lp(1).jpg"
+        },
+        {
+            "title": "Perubahan Layanan Mega Cash Line",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2116",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200401161204.jpg",
+            "area_promo": "Nasional",
+            "start_promo": {
+                "date": "01 April 2020"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/BM%20asset%20MEGACASHLINE_lp.jpg"
+        },
+        {
+            "title": "Javamifi Diskon Hingga 15%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2140",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200415150524.04",
+            "area_promo": "Nasional",
+            "start_promo": {
+                "date": "01 Februari 2020"
+            },
+            "end_promo": {
+                "date": "31 Januari 2021"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/3A-landing-page-JAVA-MIFI.jpg"
+        },
+        {
+            "title": "Hotel Dalton - Diskon 43%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2141",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200619112145.jpg",
+            "area_promo": "Makassar",
+            "start_promo": {
+                "date": "06 April 2020"
+            },
+            "end_promo": {
+                "date": "05 April 2021"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/BM%20asset%20Dalton_lp(1).jpg"
+        },
+        {
+            "title": "Hotel  Neo - Diskon Hingga 55%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2197",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200623135333.jpg",
+            "area_promo": "Pontianak",
+            "start_promo": {
+                "date": "18 Maret 2020"
+            },
+            "end_promo": {
+                "date": "17 Maret 2021"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/0-landing-page-HOTEL-NEO-PONTIANAK.jpg"
+        },
+        {
+            "title": "Diskon Grand Victoria - Special Price All Type Room",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2198",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200625130205.jpg",
+            "area_promo": "Samarinda",
+            "start_promo": {
+                "date": "18 Maret 2020"
+            },
+            "end_promo": {
+                "date": "17 Maret 2021"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/0-landing-page-GRAND-VICTORIA.jpg"
+        },
+        {
+            "title": "Boemi Massage & Reflexiology (Hotel Golden Tulip) - Diskon 5%",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2200",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200626170841.jpg",
+            "area_promo": "Banjarmasin",
+            "start_promo": {
+                "date": "01 Mei 2020"
+            },
+            "end_promo": {
+                "date": "30 April 2021"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/BM%20asset%20boemi_lp.jpg"
+        },
+        {
+            "title": "Hotel Midtown Residence -  Special Rate ( Buy 1 Get 2 Night )",
+            "url": "https://www.bankmega.com/promo_detail.php?id=2201",
+            "image_url": "https://www.bankmega.com/images/promolain/frontb/20200626173009.jpg",
+            "area_promo": "Surabaya",
+            "start_promo": {
+                "date": "01 Mei 2020"
+            },
+            "end_promo": {
+                "date": "30 April 2021"
+            },
+            "desc_image": "https://www.bankmega.com/files/images/BM%20asset%20midtown_lp.jpg"
+        }
+    ]
+}
