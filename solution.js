@@ -14,6 +14,18 @@ function parseHrtimeToSeconds(hrtime) {
     return seconds;
 }
 
+gatheringData().then((promolist) => {
+    const jsonfile = 'solution.json';
+    console.log(`Writing file ${jsonfile}..`);
+    fs.writeFileSync(jsonfile, JSON.stringify(promolist, null, 4));
+    let elapsedSeconds = parseHrtimeToSeconds(process.hrtime(startTime));
+    console.log(`All done in ${elapsedSeconds} sec`);
+}).catch((err) => {
+    console.log('Failed :', err);
+}).then(() => {
+    process.exit();
+});
+
 async function gatheringData() {
     console.log("Gathering categories data..");
     let subcat = await getSubcat();
@@ -171,15 +183,3 @@ function periodStart(period) {
 function periodEnd(period) {
     return {date: period};
 }
-
-gatheringData().then((promolist) => {
-    const jsonfile = 'solution.json';
-    console.log(`Writing file ${jsonfile}..`);
-    fs.writeFileSync(jsonfile, JSON.stringify(promolist, null, 4));
-    let elapsedSeconds = parseHrtimeToSeconds(process.hrtime(startTime));
-    console.log(`All done in ${elapsedSeconds} sec`);
-}).catch((err) => {
-    console.log('Failed :', err);
-}).then(() => {
-    process.exit();
-});
