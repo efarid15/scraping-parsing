@@ -97,16 +97,16 @@ async function getSinglePage(nm, categoryPromo) {
     return nm
         .evaluate(() => document.querySelector('#promolain').innerHTML)
         .then((html) => $('img', html).map((i, el) => {
-            let promo = {categoryPromo: categoryPromo};
+            let promopack = {categoryPromo: categoryPromo};
             if (el) {
                 if (el.attribs.title) 
-                    promo.title = el.attribs.title;
+                    promopack.title = el.attribs.title;
                 if (el.parent && el.parent.attribs.href)
-                    promo.url = new URL(el.parent.attribs.href, BASE_URL).toString();
+                    promopack.url = new URL(el.parent.attribs.href, BASE_URL).toString();
                 if (el.attribs.src) 
-                    promo.image_url = new URL(el.attribs.src, BASE_URL).toString();
+                    promopack.image_url = new URL(el.attribs.src, BASE_URL).toString();
             }
-            return promo;
+            return promopack;
         }).get());
 }
 
@@ -179,7 +179,7 @@ gatheringData().then((promolist) => {
     let elapsedSeconds = parseHrtimeToSeconds(process.hrtime(startTime));
     console.log(`All done in ${elapsedSeconds} sec`);
 }).catch((err) => {
-    console.log('Failed error:', err);
+    console.log('Failed :', err);
 }).then(() => {
     process.exit();
 });
